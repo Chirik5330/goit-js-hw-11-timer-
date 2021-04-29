@@ -1,0 +1,16 @@
+#timer-1 {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  margin: 100px auto;
+}
+
+.field {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  border: 1px solid rgb(65, 58, 55);
+  padding: 10px;
+  border-radius: 5px;
+  background: #d7dfc5;
+}
